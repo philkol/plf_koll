@@ -2,3 +2,5 @@ Berger
 Maxen
 Mayer-Berger
 Wand
+Mayer-Huber
+Muller
